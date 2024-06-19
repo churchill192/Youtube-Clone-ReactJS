@@ -18,3 +18,7 @@ img{
     display: flex;
     align-items: center;
 }
+
+.p{
+    display: none;
+}
